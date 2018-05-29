@@ -1,1 +1,1 @@
-practice-spring-boot-web
+Simple practice project for Spring Boot Web
