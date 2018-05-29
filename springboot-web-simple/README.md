@@ -1,4 +1,8 @@
 Simple Spring Boot Web
+
+Import project into IntelliJ IDE, it will download necessary files for running gradlew
+`IntelliJ IDE > File > New > Project from Existing Sources ... > [choose the springboot-web-simple folder]`  
+
 Build Project:
 Windows: 
 ```
